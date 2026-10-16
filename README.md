@@ -86,7 +86,9 @@ These repositories are highlighted on my public GitHub profile. Star badges upda
 
 | Repository | Overview | Technology | Stars |
 |---|---|---|---:|
-| [**BitChord**](https://github.com/santhoshg-io/BitChord) | Kotlin-based music client fork; I plan to continue contributing to this project | Kotlin · [Upstream project](https://github.com/kushagrasinghx/BitChord) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/BitChord?style=flat-square&label=%E2%AD%90) |
+| Repository | Overview | Technology | Stars |
+|---|---|---|---|
+| [BitChord](https://github.com/kushagrasinghx/BitChord) | Kotlin-based music client fork; I plan to continue contributing to this project. | Kotlin · [Upstream project](https://github.com/kushagrasinghx/BitChord) | [![GitHub stars](https://img.shields.io/github/stars/kushagrasinghx/BitChord?style=flat&logo=github)](https://github.com/kushagrasinghx/BitChord/stargazers) |
 | [**portfolio**](https://github.com/santhoshg-io/portfolio) | Personal portfolio website | TypeScript · [Live site](https://portfolio-santhoshg.vercel.app/) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/portfolio?style=flat-square&label=%E2%AD%90) |
 | [**disastermanagement**](https://github.com/santhoshg-io/disastermanagement) | Disaster-preparedness education platform with learning modules and safety resources | TypeScript · [Live demo](https://disaster1-flame.vercel.app/) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/disastermanagement?style=flat-square&label=%E2%AD%90) |
 
