@@ -78,7 +78,6 @@ I'm Santhosh G, a Computer Science and Engineering student at EASA College of En
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshg-io&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
-> The 🔥 Streak Stats and 📈 Activity Graph sections have been intentionally removed.
 
 ## ⭐ Featured Repositories
 
@@ -87,7 +86,6 @@ These repositories are highlighted on my public GitHub profile. Star badges upda
 | Repository | Overview | Technology | Stars |
 |---|---|---|---:|
 | Repository | Overview | Technology | Stars |
-|---|---|---|---|
 | [BitChord](https://github.com/kushagrasinghx/BitChord) | Kotlin-based music client fork; I plan to continue contributing to this project. | Kotlin · [Upstream project](https://github.com/kushagrasinghx/BitChord) | [![GitHub stars](https://img.shields.io/github/stars/kushagrasinghx/BitChord?style=flat&logo=github)](https://github.com/kushagrasinghx/BitChord/stargazers) |
 | [**portfolio**](https://github.com/santhoshg-io/portfolio) | Personal portfolio website | TypeScript · [Live site](https://portfolio-santhoshg.vercel.app/) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/portfolio?style=flat-square&label=%E2%AD%90) |
 | [**disastermanagement**](https://github.com/santhoshg-io/disastermanagement) | Disaster-preparedness education platform with learning modules and safety resources | TypeScript · [Live demo](https://disaster1-flame.vercel.app/) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/disastermanagement?style=flat-square&label=%E2%AD%90) |
