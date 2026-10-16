@@ -16,38 +16,29 @@
 
 ---
 
+<!-- CODE-BLOCK ABOUT ME -->
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 👋 Hi, I'm Santhosh G
+
+🎓 Computer Science and Engineering student at EASA College of Engineering & Technology, Coimbatore.
+
+💻 Full-Stack MERN Developer and Python ML Engineer passionate about building real-world applications.
+
+- 🔭 Working on full-stack development and AI/ML projects.
+- 🌱 Exploring advanced React, system design, and cloud technologies.
+- 💡 Interested in web development, machine learning, and innovative solutions.
+- 🌐 Portfolio: [Visit My Portfolio](https://portfolio-santhoshg.vercel.app/)
+- 📫 Email: santhoshg22333@gmail.com
+
+**Motto:** Build things that matter. Learn something new every day.
+
 ## 👋 About Me
 
-```python
-class SanthoshG:
-    def __init__(self):
-        self.name = "Santhosh G"
-        self.location = "Coimbatore, India 🇮🇳"
-        self.degree = "B.E. Computer Science & Engineering"
-        self.college = "EASA College of Engineering & Technology"
-        self.interests = [
-            "Full-Stack Development",
-            "Machine Learning",
-            "Artificial Intelligence",
-            "UI/UX Design",
-        ]
-        self.stack = [
-            "Python", "JavaScript", "React.js", "Node.js", "Express.js",
-            "MongoDB", "Scikit-learn", "Pandas", "NumPy"
-        ]
-        self.currently_learning = [
-            "Advanced React", "System Design",
-            "Deep Learning with PyTorch", "Cloud & CI/CD"
-        ]
+I'm Santhosh G, a Computer Science and Engineering student at EASA College of Engineering & Technology, Coimbatore. I build full-stack web applications with the MERN stack and explore machine learning with Python.
 
-    def motto(self):
-        return "Build things that matter. Learn something new every day."
-
-me = SanthoshG()
-print(me.motto())
-```
-
-I'm a Computer Science and Engineering student interested in building useful web applications, designing user-friendly experiences, and exploring machine learning and AI. I learn by building projects and experimenting with new tools.
+- **Interests:** Full-stack development, AI/ML, and user-focused web experiences.
+- **Current focus:** Building practical projects, improving application quality, and learning modern development tools.
 
 ## 🛠️ Tech Stack
 
@@ -95,9 +86,10 @@ These repositories are highlighted on my public GitHub profile. Star badges upda
 
 | Repository | Overview | Technology | Stars |
 |---|---|---|---:|
-| [**BitChord**](https://github.com/santhoshg-io/BitChord) | Fork of a modern YouTube Music client with an Apple Music-inspired interface | Kotlin · [Upstream project](https://github.com/kushagrasinghx/BitChord) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/BitChord?style=flat-square&label=%E2%AD%90) |
+| [**BitChord**](https://github.com/santhoshg-io/BitChord) | Kotlin-based music client fork; I plan to continue contributing to this project | Kotlin · [Upstream project](https://github.com/kushagrasinghx/BitChord) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/BitChord?style=flat-square&label=%E2%AD%90) |
 | [**portfolio**](https://github.com/santhoshg-io/portfolio) | Personal portfolio website | TypeScript · [Live site](https://portfolio-santhoshg.vercel.app/) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/portfolio?style=flat-square&label=%E2%AD%90) |
 | [**disastermanagement**](https://github.com/santhoshg-io/disastermanagement) | Disaster-preparedness education platform with learning modules and safety resources | TypeScript · [Live demo](https://disaster1-flame.vercel.app/) | ![Stars](https://img.shields.io/github/stars/santhoshg-io/disastermanagement?style=flat-square&label=%E2%AD%90) |
+
 
 <p align="center">
   <a href="https://github.com/santhoshg-io?tab=repositories"><img src="https://img.shields.io/badge/View-All%20Public%20Repositories-181717?style=for-the-badge&logo=github" alt="View all public repositories" /></a>
@@ -108,7 +100,7 @@ These repositories are highlighted on my public GitHub profile. Star badges upda
 
 - Explore all public repositories: [GitHub repositories](https://github.com/santhoshg-io?tab=repositories)
 - Review contribution activity: [GitHub contributions](https://github.com/santhoshg-io?tab=contributions)
-- **BitChord** is marked on GitHub as a fork of `kushagrasinghx/BitChord`. This README does not claim upstream pull requests or contribution totals that could not be independently confirmed.
+- **BitChord:** I plan to continue contributing to this Kotlin-based music client fork and improving it over time. See the [upstream repository](https://github.com/kushagrasinghx/BitChord).
 
 ## 🚀 Projects
 
@@ -125,55 +117,44 @@ These repositories are highlighted on my public GitHub profile. Star badges upda
 ### 🚀 Canzo.in — Full Stack & Product Development Intern
 **June 2026 – August 2026 · Coimbatore, Tamil Nadu, India**
 
-- Full Stack & Product Development internship, as listed on my LinkedIn profile.
-- Focus: product development and full-stack application work.
+- Participated in full-stack and product-development work during the internship.
+- Gained practical exposure to building and refining product features.
 
 ### 🌐 Webstack Academy (WSA) — MERN Stack Developer
 **June 2026 – July 2026**
 
-- MERN Stack developer role/training experience listed on my LinkedIn profile.
+- Developed skills across the MongoDB, Express.js, React.js, and Node.js stack.
+- Practised full-stack development concepts and application workflows.
 
 ### 🤖 Future Interns — Machine Learning Intern
 **December 2025 · Remote**
 
-- Executed end-to-end machine-learning pipeline tasks, including data collection, preprocessing, feature engineering, and model evaluation using Python-based tools.
-- Applied supervised-learning algorithms to structured datasets, reviewed model-performance metrics, and iterated on hyperparameter configurations.
-- Prepared and cleaned datasets for ML API integration, aligning workflows with Google Cloud ML API standards.
+- Worked on ML pipeline tasks including data collection, preprocessing, feature engineering, and model evaluation using Python.
+- Applied supervised-learning methods, reviewed model metrics, and prepared datasets for ML API integration.
 
 ### 💻 KALAM EDUCATIONAL SOLUTION — Frontend Developer and Mentor
 **April 2025 – August 2025 · Palacode, Dharmapuri, Tamil Nadu**
 
-- Developed and deployed a production website for an educational platform using HTML, CSS, and JavaScript.
-- Built responsive layouts, CSS animations, and interactive UI components.
-- Implemented mobile-first layouts across device breakpoints without relying on a UI framework.
-- Worked as the sole frontend developer for the five-month engagement, owning design-to-code implementation, cross-browser compatibility, and performance optimization.
-- Designed a program-completion framework for student certification initiatives.
-- Coordinated stakeholders for a UNICEF-affiliated educational program; the LinkedIn profile states that a formal contribution certificate was received.
+- Built and deployed an educational platform website using HTML, CSS, and JavaScript, including responsive layouts and interactive UI components.
+- Managed frontend implementation across the five-month engagement, with attention to mobile responsiveness, cross-browser compatibility, and performance.
 
 ## 🏅 Certifications & Achievements
 
-The following certification names appear in the LinkedIn profile PDF supplied for this README update. Credential URLs, issue dates, and credential IDs are included only where available in that source.
+The certifications below are listed in the LinkedIn profile PDF provided for this update. I couldn't reliably verify the latest posts on the exact LinkedIn profile through public search, so I have not added unverified certificates.
 
-| Certification | Issuer / Platform shown in profile |
-|---|---|
-| **Machine Learning with Python** | IBM |
-| **Business Analysis & Process Management** | Coursera |
-| **Prepare Data for ML APIs on Google Cloud** | Google Cloud Skill Badge |
-| **Smart Analytics, Machine Learning, and AI on Google Cloud** | Google Cloud |
-| **AI Appreciate Badge — AI For All** | AI For All |
-| **Formal certificate of contribution** | UNICEF-affiliated educational program (as described in the LinkedIn profile) |
+- **Machine Learning with Python** — IBM.
+- **Business Analysis & Process Management** — Coursera.
+- **Prepare Data for ML APIs on Google Cloud** — Google Cloud Skill Badge.
+- **Smart Analytics, Machine Learning, and AI on Google Cloud** — Google Cloud.
+- **AI Appreciate Badge — AI For All.**
+- **Certificate of contribution** for work connected to a UNICEF-affiliated educational program, as described in the profile.
 
-> **Note:** The LinkedIn PDF lists the certification titles above but does not provide credential IDs or verification URLs for them. The names are transcribed from the supplied profile export; certificate authenticity has not been independently checked.
+*Credential URLs and IDs were not present in the supplied profile PDF. Add public verification links when available.*
 
 ## 🎓 Education
 
 - **Bachelor of Engineering (B.E.), Computer Science** — Easa College of Engineering & Technology. LinkedIn profile lists August 2025.
 - **Higher Secondary — Maths Biology** — State Board School Examinations, Tamil Nadu (TNSB). LinkedIn profile lists July 2024 – March 2025.
-
-## 🧭 Leadership & Community
-
-- **CSE Placement Coordinator** — Easa College of Engineering & Technology, as stated in the LinkedIn summary.
-- **Core Organizer — Hackastorm 2.0 (2K26)** — nationwide hackathon at Easa College, as stated in the LinkedIn summary.
 
 ## 🔗 Professional Profile
 
